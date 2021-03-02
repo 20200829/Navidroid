@@ -3,10 +3,10 @@ Mobile apps are now indispensable for people's daily life. Complementing with au
 
 ## Demo Video
 
-<img src="https://github.com/20200829/Navidroid/blob/master/TestExample-1.gif" width="600" alt="Demo" align=center >
+<img src="https://github.com/20200829/Navidroid/blob/main/TestExample-1.gif" width="600" alt="Demo" align=center >
 
 
 ## Example NaviDroid Usage Scenario
-<img src="https://github.com/20200829/Navidroid/blob/master/ExampleNaviDroid.png" width="600" alt="" align=center >
+<img src="https://github.com/20200829/Navidroid/blob/main/ExampleNaviDroid.png" width="600" alt="" align=center >
 
 
