@@ -1,7 +1,7 @@
 # Navidroid
 Mobile apps are now indispensable for people's daily life. Complementing with automated GUI testing, manual GUI testing is the last line of defence for app quality especially in spotting usability and accessibility issues which are hard to detect by automated testing. However, the repeated actions and easily missing of some functionalities make manual testing time-consuming, labor-extensive and inefficient. Inspired by the game candy crush with flashy candies as hint moves for players, we develop a tool named NaviDroid for navigating human testers via highlighted next operations for more effective and efficient testing.
 
-We release the source code in ./NavidroidSourceCode/, empirical study details in ./EmpiricalStudy/, dataset details in ./Dataset/, experiment details in ./EffectivenessEvaluation/ & ./UsefulnessEvaluation/, and demo videos of Navidroid.
+We release the source code in **./NavidroidSourceCode/**, empirical study details in **./EmpiricalStudy/**, dataset details in **./Dataset/**, experiment details in **./EffectivenessEvaluation/** & **./UsefulnessEvaluation/**, and demo videos of Navidroid.
 
 ## Demo Video
 This is a demo video of the Navidroid. The Navidroid prompts testers for UI components that need to be operated (e.g., red bounding box). That process is similar to the flashing candies (hint/suggested moves) when a player hesitates to make a move in playing Candy Crush (a popular free-to-play match-three puzzle video game).
