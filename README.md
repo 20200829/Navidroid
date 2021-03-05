@@ -25,6 +25,8 @@ To understand the issues during manual exploratory testing, we carry out an empi
 
 <img src="https://github.com/20200829/Navidroid/blob/main/exampleEmpirical.png" width="600" alt="" align=center >
 
+Example of one tester's exploration graph. The solid line represent the explored path while dotted line is the unexplored path. Number below each page is the visit time of the tester
+
 
 ## Effectiveness Evaluation
 We compared our NaviDroid with five baselines, For more details, see ./EffectivenessEvaluation/.
