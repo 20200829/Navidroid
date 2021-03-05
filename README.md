@@ -21,7 +21,10 @@ We randomly select 85 apps from F-Droid, including 17 categories (e.g., connecti
 <img src="https://github.com/20200829/Navidroid/blob/main/dataset.png" width="600" alt="" align=center >
 
 ## Empirical Study
-To understand the issues during manual exploratory testing, we carry out an empirical study on observing testers' behavior. The details of the empirical study are shown in ./EmpiricalStudy/.
+To understand the issues during manual exploratory testing, we carry out an empirical study on observing testers' behavior. The details of the empirical study are shown in ./EmpiricalStudy/ and Figure.
+
+<img src="https://github.com/20200829/Navidroid/blob/main/exampleEmpirical.png" width="600" alt="" align=center >
+
 
 ## Effectiveness Evaluation
 We compared our NaviDroid with five baselines, For more details, see ./EffectivenessEvaluation/.
