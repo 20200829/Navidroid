@@ -1,1 +1,1 @@
-Activity coverage by $STG_{action}$ 
+Activity coverage by STG_action 
