@@ -3,7 +3,7 @@ Mobile apps are now indispensable for people's daily life. Complementing with au
 
 We release the source code in **./NavidroidSourceCode/**, empirical study details in **./EmpiricalStudy/**, dataset details in **./Dataset/**, experiment details in **./EffectivenessEvaluation/** & **./UsefulnessEvaluation/**, and demo videos of Navidroid.
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=20200829.Navidroid)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=20200829.Navidroid)
 
 ## Demo Video
 This is a demo video of the Navidroid. The Navidroid prompts testers for UI components that need to be operated (e.g., red bounding box). That process is similar to the flashing candies (hint/suggested moves) when a player hesitates to make a move in playing Candy Crush (a popular free-to-play match-three puzzle video game).
