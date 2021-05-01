@@ -1,1 +1,2 @@
 To understand the issues during manual exploratory testing, we carry out an empirical study on observing testers' behavior.
+With more details of the experiment can download file ***EmpiricalStudy.zip*** , ***EmpiricalStudy.zip*** contains the statistical data (***empirical-study.csv*** ) of the empirical study and the basis for determining the threshold ***empirical-study.txt*** (the specific content of the empirical study).
