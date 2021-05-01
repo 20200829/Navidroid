@@ -70,6 +70,7 @@ Navidroid can run on Mac OS or Window 10 or Ubuntu. The following are the specif
 ## Setup
 The following is required to set up Navidroid:
 * Python 3.7.3
+* Java version "1.7.0_80"
 * Genymotion 3.0.4
 * Android 8.0
 * at least 1 GB hard drive
