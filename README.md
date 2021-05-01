@@ -97,6 +97,7 @@ Open the usage permissions of the Android virtual machine.
 python ./Navidroid/NavidroidSourceCode/VisualTool/run.py
 ```
 To run the Navidroid.
+<img src="https://github.com/20200829/Navidroid/blob/main/TestExample-1.gif" width="600" alt="Demo" align=center >
 
 ## Need help?
 * If an error is reported during operation, please check whether the Android virtual machine developer permission is turned on.
