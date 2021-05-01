@@ -27,9 +27,16 @@ To understand the issues during manual exploratory testing, we carry out an empi
 
 Example of one tester's exploration graph. The solid line represent the explored path while dotted line is the unexplored path. Number below each page is the visit time of the tester
 
+To understand the issues during manual exploratory testing, we carry out an empirical study on observing testers' behavior.
+With more details of the experiment can download file ***EmpiricalStudy.zip*** , ***EmpiricalStudy.zip*** contains the statistical data (***empirical-study.csv*** ) of the empirical study and the basis for determining the threshold ***empirical-study.txt*** (the specific content of the empirical study).
 
 ## Effectiveness Evaluation
 We compared our NaviDroid with five baselines, For more details, see ./EffectivenessEvaluation/.
+We also try the other fine-grained metric, the number of unique states explored by the tool. In our experiments, we also get the result in 85 apps from our dataset, as seen in the table below. On average, Navidroid can get 52.7 states which is 27% higher than the best baseline. We had omitted the results from the submitted version for space reasons, but are happy to include them for camera-ready.
+
+ ***Navidroid*** | IC3 | Monkey | Droidbot | Droidmate | Humaniod 
+:-: | :-: | :-: | :-: |  :-: | :-:
+ ***52.7*** | 17.7 | 24.3 | 29.3 | 35.9 | 41.5 
 
 ## Usefulness Evaluation
 In addition to the effectiveness evaluation, we also conduct a user study to demonstrate the usefulness of NaviDroid in the real-world practice of manual testing. For more details, please see the table and ./UsefulnessEvaluation/.
