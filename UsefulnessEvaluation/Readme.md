@@ -24,7 +24,7 @@ In addition to the effectiveness evaluation, we also conduct a user study to dem
 19 | SkyTube | Media | 7 | 14 | 50M+ | #867 | fixed | 0.86** | 0.68 | 5.25** | 8.15 | 1 | 0.25 | 5 | 4.5 
 20 | LibreraReader | Reading | 10 | 22 | 100M+ | #652 | fixed | 0.80** | 0.60 | 6.55* | 8.23 | 1 | 0 | 5 | 4.5 
 
-Regarding the user experience of Navidroid, we also create an online survey on the participants from our user study. We asked them about the usefulness of the Navidroid for their work, as well as the potential and expansion of the Navidroid in the future.  At the end, participants fill in the System Usability Scale (SUS) questionnaire (5-point Likert scale~\cite{5-likert-1} from 1 (strongly disagree) to 5 (strongly agree)). The questionnaire also asks participants to select the TechLand system features that they deem most useful or least useful for the tasks.
+Regarding the user experience of Navidroid, we also create an online survey on the participants from our user study. We asked them about the usefulness of the Navidroid for their work, as well as the potential and expansion of the Navidroid in the future.  At the end, participants fill in the System Usability Scale (SUS) questionnaire (5-point Likert scale from 1 (strongly disagree) to 5 (strongly agree)). The questionnaire also asks participants to select the TechLand system features that they deem most useful or least useful for the tasks.
 
 <img src="https://github.com/20200829/Navidroid/blob/main/useful-SUS.png" width="600" alt="" align=center >
 
