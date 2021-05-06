@@ -112,6 +112,4 @@ To run the Navidroid.
 * If you have any questions, please submit an issue report in the issue.
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=20200829.Navidroid)
-
 
