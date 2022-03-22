@@ -1,4 +1,4 @@
-## Due to the needs of our project, the integrated tool is comming soon. For questions, please contact liuzhe181@mails.ucas.edu.cn
+## Due to the needs of our project, the integrated tool is comming soon. Please contact liuzhe181@mails.ucas.edu.cn
 
 
 
